@@ -1,0 +1,2 @@
+Artificial intelligence involves the development of computer systems that can perform tasks that typically require human intelligence.
+ It encompasses various techniques, including machine learning, which enables computers to learn and make decisions from data.
